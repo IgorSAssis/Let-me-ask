@@ -15,6 +15,15 @@
     max-height: 45px;
 }
 
+#page-room header .content > div {
+    display: flex;
+    gap: 16px;
+}
+
+#page-room header .content > div button {
+    height: 40px;
+}
+
 #page-room main {
     max-width: 800px;
     margin: 0 auto;
@@ -51,6 +60,10 @@
     box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
     resize: vertical;
     min-height: 130px;
+}
+
+#page-room main .question-list {
+    margin-top: 32px;
 }
 
 #page-room main form .form-footer {
