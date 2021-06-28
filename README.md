@@ -25,16 +25,16 @@
 
 <p align="center">
   <a href="https://github.com/IgorSAssis/Let-me-ask/blob/main/.github/letme-ask-login-page.png">
-    <img src="https://github.com/IgorSAssis/Let-me-ask/blob/main/.github/letme-ask-login-page.png" width="440"/>
+    <img src="https://github.com/IgorSAssis/Let-me-ask/blob/main/.github/letme-ask-login-page.png" width="400"/>
   </a>
   <a href="https://github.com/IgorSAssis/Let-me-ask/blob/main/.github/letme-ask-login-page-02.png">
-    <img src="https://github.com/IgorSAssis/Let-me-ask/blob/main/.github/letme-ask-login-page-02.png" width="440"/>
+    <img src="https://github.com/IgorSAssis/Let-me-ask/blob/main/.github/letme-ask-login-page-02.png" width="400"/>
   </a>
   <a href="https://github.com/IgorSAssis/Let-me-ask/blob/main/.github/letme-ask-user-page.png">
-    <img src="https://github.com/IgorSAssis/Let-me-ask/blob/main/.github/letme-ask-user-page.png" width="440"/>
+    <img src="https://github.com/IgorSAssis/Let-me-ask/blob/main/.github/letme-ask-user-page.png" width="400"/>
   </a>
   <a href="https://github.com/IgorSAssis/Let-me-ask/blob/main/.github/letme-ask-login-admin-page.png">
-    <img src="https://github.com/IgorSAssis/Let-me-ask/blob/main/.github/letme-ask-login-admin-page.png" width="440"/>
+    <img src="https://github.com/IgorSAssis/Let-me-ask/blob/main/.github/letme-ask-login-admin-page.png" width="400"/>
   </a>
 </p>
 
