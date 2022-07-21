@@ -17,8 +17,8 @@
 * [Screenshots:](#Screenshots)
 * [Technologies](#Technologies)
 * [How to run](#HowToRun)
-* [License](#Licence)
-* 
+* [License](#License)
+
 <a name="Screenshots" />
 
 ## :camera: &nbsp; Screenshots
