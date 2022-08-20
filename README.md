@@ -78,5 +78,5 @@ Access application on http://localhost:3000/
 
 <a name="License" />
 
-## :page_facing_up: Licenses:
+## :page_facing_up: Licenses
 This project is under the  [MIT license](https://github.com/IgorSAssis/Let-me-ask/blob/master/LICENSE)
